@@ -1,7 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on meArm arduino robot
-- 🌱 I’m currently learning to use Wireshark
 - 📫 How to reach me: diego.romeo025@gmail.com
 
 ## Languages and Tools
