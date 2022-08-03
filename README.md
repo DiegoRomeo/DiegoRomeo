@@ -2,8 +2,8 @@
 
 <h3>Languages</h3>
 <div style="justufy.content: center">
-<img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python_32x32.png"/>
-<img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript_32x32.png"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32px" height="32px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32px" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32px" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32px" height="32px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32px" height="32px"/>
@@ -35,3 +35,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DiegoRomeo&show_icons=true&theme=monokai"/>
 
 ### How to reach me 📬
+<div style="justufy.content: center">
+<a href="mailto:diego.romeo025@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="20px" height="15px"/>
+</a>
+</div>
