@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![Leetcode](https://leetcode.card.workers.dev/DiegoRomeo?theme=default&font=baloo&extension=null)  
+![Project Euler](https://projecteuler.net/profile/DiegoRomeo.png)  
+![Codewars](https://www.codewars.com/users/DiegoRomeo/badges/micro)  
 <!--
 **DiegoRomeo/DiegoRomeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
