@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRomeo&show_icons=true&theme=tokyonight)  
 ![Project Euler](https://projecteuler.net/profile/DiegoRomeo.png)  
 [![LeetCode user DiegoRomeo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDiegoRomeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/DiegoRomeo/)  
 ![Codewars](https://www.codewars.com/users/DiegoRomeo/badges/micro)  
